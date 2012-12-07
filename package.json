@@ -1,0 +1,25 @@
+{
+  "name": "jsdev-cli",
+  "version": "0.0.0",
+  "description": "cli for jsdev",
+  "main": "",
+  "bin" : {
+    "jsdev": "./bin/jsdev"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bigfish/jsdev-cli.git"
+  },
+  "keywords": [
+    "jsdev",
+    "javascript",
+    "tools"
+  ],
+  "author": "David Wilhelm",
+  "license": "BSD",
+  "readmeFilename": "Readme.md",
+  "preferGlobal": true
+}
