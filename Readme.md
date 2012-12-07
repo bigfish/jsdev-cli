@@ -9,6 +9,8 @@ installs a command line app, with the following signature:
 do jsdev --help for deets.
 
 ###Installation
-cd <repo>
-sudo npm install -g
+
+    git clone https://github.com/bigfish/jsdev-cli.git
+    cd jsdev-cli
+    sudo npm install -g
 
